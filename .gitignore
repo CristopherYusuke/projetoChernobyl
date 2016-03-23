@@ -2,3 +2,4 @@ api/composer.lock
 
 api/vendor/
 api/vendor/*
+/nbproject/private/
